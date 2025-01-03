@@ -10,7 +10,7 @@ anilist.co##.recent-threads
 anilist.co##.recent-reviews
 anilist.co##a.link:nth-of-type(5)
 anilist.co##.mobile-nav-hidden.filter-group
-anilist.co##div.list-preview-wrap:nth-of-type(2)
+anilist.co##div.list-preview-wrap:nth-of-type(3)
 
 ! anime4up.cam
 ! Pinned 
